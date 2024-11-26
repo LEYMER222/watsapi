@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #CD5D5D;
+}
+.div{
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+color: yellow;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+margin: 38px 224px 0px 192px
+}
+.klas{
+font-size: 64px;
+font-weight: 400;
+line-height: 77.45px;
+text-align: center;
+color: white;
+
+}
+.topn1{
+    font-size: 40px;
+}
+.n1bro{
+    color: #2000E8;
+    font-size: 15px;
+    padding-top: 22px;
+}
+.div2{
+    display: flex;
+    gap: 92px;
+    margin-left: 166px;
+    margin-top: 46px;
+}
+.foto{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 166px;
+    margin-top: 23px;
+}
+.all{
+    display: flex;
+}
+.number1{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+.foto2{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 23px;
+    text-align: center;
+}
+.bro{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 23px;
+    text-align: center;
+}
+.tikak{
+    margin-top: 13px;
+}
+.kakti{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 23px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.kitkat{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 23px;
+    text-align: center;
+    margin-left: 166px;
+    margin-top: 100px;
+}
+.bratan{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 151px;
+}
